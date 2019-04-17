@@ -1,5 +1,7 @@
 # hack.chat bot
 
+**NOTE: This project has been deprecated because hack.chat is no longer actively maintained and hardly anyone uses the site (including me).**
+
 This is a bot for [hack.chat](https://github.com/hack-chat/main) instances.
 
 hack.chat is a messaging site where you have the ability to run bots. You can enter a chat by following the URL with `?<NAME>`, where `<NAME>` is the name of the chat (e.g., https://hack.chat/?math). Anyone can enter this channel if they go to that URL.
