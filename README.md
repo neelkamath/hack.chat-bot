@@ -14,11 +14,6 @@ This application was written using Python and MongoDB.
 
 ![Commands](images/screenshot.png)
 
-**Note**: This project has been deprecated for the following reasons:
-1. This project wasn't built in a scalable manner (it would be faster to rewrite the project than to refactor it in order to changes it).
-1. Nobody uses hack.chat (even I don't use it anymore).
-1. The library being utilized for connecting to hack.chat has been deprecated.
-
 # Installation
 
 1. A [Heroku account](https://signup.heroku.com/?c=70130000001x9jFAAQ)
